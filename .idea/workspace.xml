@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f54ef36-60fb-4a0b-872b-78e0dc3a26a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 4.4 Bedroom Package.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Desk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Dresser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/MyBedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Readme/md.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Rug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Ventilation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bedroom/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Outlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Windows.java" afterDir="false" />
+    <list default="true" id="5f54ef36-60fb-4a0b-872b-78e0dc3a26a2" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Amari213"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4caf0140-d6f4-4842-9f90-3260a0c761bb" />
+        <option name="url" value="https://github.com/Amari213/Lab-4.4-Bedroom.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -79,11 +72,24 @@
       <updated>1713226571545</updated>
       <workItem from="1713226572577" duration="3243000" />
       <workItem from="1713234351470" duration="1045000" />
-      <workItem from="1713235549454" duration="2681000" />
+      <workItem from="1713235549454" duration="3285000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1713238259697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713238259697</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
